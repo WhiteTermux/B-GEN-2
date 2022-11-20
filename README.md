@@ -1,6 +1,6 @@
 B-GEN-2
 
-Установка:
+*Установка:*
 
 `apt install git -y`
 
@@ -14,7 +14,7 @@ B-GEN-2
 
 `pip3 install -r requirements.txt`
 
-Запуск:
+*Запуск:*
 
 `python3 main.py`
 
