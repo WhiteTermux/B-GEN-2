@@ -17,3 +17,5 @@ B-GEN-2
 Запуск:
 
 `python3 main.py`
+
+Так же заглядывайте канал [WhiteTermux](https://t.me/WhiteTermux в телеграм.
