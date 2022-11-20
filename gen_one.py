@@ -8,7 +8,7 @@ from rich.console import Console
 from rich.prompt import Prompt
 from pyfiglet import figlet_format
 
-uconsole = Console()
+console = Console()
 
 def One_Banner():
     """Generate one random banner"""
